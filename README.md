@@ -5,7 +5,7 @@ B.Tech CSE Student • AI & Data Science Enthusiast • Python Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Python+Developer;AI+%26+Data+Science+Enthusiast;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Python+Developer;AI+%26+Data+Science+Enthusiast;AI & Data Science Enthusiast | Python Developer" />
 </p>
 
 <p align="center">
