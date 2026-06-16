@@ -63,6 +63,7 @@
 - NumPy
 - Pandas
 - Matplotlib
+- seaborn
 - Scikit-Learn
 
 
