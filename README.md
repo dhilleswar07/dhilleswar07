@@ -79,6 +79,12 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter Notebook"/>
+
+### 👨‍💻 Web Development
+
+- Html
+- Css
+
 </p>
 
 ---
