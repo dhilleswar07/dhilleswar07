@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-🎓 B.Tech Student passionate about Technology and Innovation
+🎓 Completed B.Tech from Sanketika Institute of technology and Managment ( 2022 to 2026 )
 
 🤖 Learning Artificial Intelligence, Machine Learning , Data Science& Generative AI
 
