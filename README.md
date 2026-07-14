@@ -71,14 +71,13 @@
 ### 🗄️ Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="Microsoft SQL Server" />
 </p>
 
 ### 🛠️ Tools & Platforms
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter Notebook"/>
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter Notebook"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spyder/spyder-original.svg" width="48" height="48" alt="Spyder IDE"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI Desktop"/> </p>
 
 ### 👨‍💻 Web Development
 
@@ -94,6 +93,9 @@
 ### 🔹 AI-Based Fraud Detection System
 Machine Learning project for detecting fraudulent online transactions with real-time alerts.
 
+### 🔹 Resume Analyzer
+AI-powered application for analyzing resumes, extracting key information, evaluating skills, and providing insights for job matching and resume improvement.
+
 ### 🔹 Data Analytics Dashboard
 Interactive dashboard for visualizing business insights using Python.
 
@@ -102,13 +104,16 @@ Building intelligent chatbots using LLMs and Generative AI.
 
 ---
 
+
 ## 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhilleswar07&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhilleswar07&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhilleswar07&layout=compact&theme=tokyonight&hide_border=true"/>
+<br/><br/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhilleswar07&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
 
 </div>
 
